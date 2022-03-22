@@ -1,0 +1,8 @@
+keras-facenet
+mtcnn
+opencv-python-headless
+scikit-learn
+matplotlib
+streamlit
+streamlit-webrtc
+pyarrow

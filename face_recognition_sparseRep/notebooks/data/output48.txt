@@ -1,0 +1,238 @@
+George_W_Bush                 | George_W_Bush                 | correct   
+George_W_Bush                 | Jennifer_Aniston              | incorrect 
+George_W_Bush                 | * NOT IN DB *                 | incorrect 
+George_W_Bush                 | George_W_Bush                 | correct   
+George_W_Bush                 | George_W_Bush                 | correct   
+George_W_Bush                 | Roh_Moo-hyun                  | incorrect 
+George_W_Bush                 | George_W_Bush                 | incorrect 
+George_W_Bush                 | Ricardo_Lagos                 | correct 
+George_W_Bush                 | * NOT IN DB *                 | incorrect 
+George_W_Bush                 | * NOT IN DB *                 | incorrect 
+Ryan_Gosling                  | * NOT IN DB *                 | incorrect 
+Ryan_Gosling                  | George_W_Bush                 | incorrect 
+Ryan_Gosling                  | Mahmoud_Abbas                 | incorrect 
+Ryan_Gosling                  | Ryan_Gosling                  | correct 
+Ryan_Gosling                  | Daniel_Radcliffe              | incorrect 
+Ryan_Gosling                  | Ryan_Gosling                  | correct   
+Ryan_Gosling                  | Roh_Moo-hyun                  | incorrect 
+Ryan_Gosling                  | Will_Smith                    | incorrect 
+Ryan_Gosling                  | Ryan_Gosling                  | correct   
+Ryan_Gosling                  | Uzmar_Gomez                   | incorrect 
+Chris_Evans                   | Denzel_Washington             | incorrect 
+Chris_Evans                   | Chris_Evans                   | correct   
+Chris_Evans                   | Chris_Evans                   | correct   
+Chris_Evans                   | * NOT IN DB *                 | incorrect 
+Chris_Evans                   | Ryan_Gosling                  | incorrect 
+Chris_Evans                   | * NOT IN DB *                 | incorrect 
+Chris_Evans                   | Chris_Hemsworth               | incorrect 
+Chris_Evans                   | Chris_Evans                   | correct   
+Chris_Evans                   | * NOT IN DB *                 | incorrect 
+Chris_Evans                   | Chris_Hemsworth               | incorrect 
+Serena_Williams               | Serena_Williams               | correct   
+Serena_Williams               | Mahmoud_Abbas                 | incorrect 
+Serena_Williams               | Roh_Moo-hyun                  | incorrect 
+Serena_Williams               | Serena_Williams               | correct   
+Serena_Williams               | Scarlett_Johansson            | incorrect 
+Serena_Williams               | Serena_Williams               | correct   
+Serena_Williams               | Serena_Williams               | correct   
+Serena_Williams               | Serena_Williams               | correct   
+Serena_Williams               | Serena_Williams               | correct   
+Serena_Williams               | Guillermo_Coria               | incorrect 
+Kofi_Annan                    | * NOT IN DB *                 | incorrect 
+Kofi_Annan                    | Mahmoud_Abbas                 | incorrect 
+Kofi_Annan                    | Mahmoud_Abbas                 | incorrect 
+Kofi_Annan                    | Kofi_Annan                    | correct   
+Kofi_Annan                    | * NOT IN DB *                 | incorrect 
+Kofi_Annan                    | Emma_Watson                   | incorrect 
+Kofi_Annan                    | Will_Smith                    | incorrect 
+Kofi_Annan                    | Kofi_Annan                    | correct 
+Kofi_Annan                    | * NOT IN DB *                 | incorrect 
+Kofi_Annan                    | Kofi_Annan                    | correct   
+Kofi_Annan                    | * NOT IN DB *                 | incorrect 
+Kofi_Annan                    | Guillermo_Coria               | incorrect 
+Hans_Blix                     | * NOT IN DB *                 | incorrect 
+Hans_Blix                     | Kofi_Annan                    | incorrect 
+Hans_Blix                     | Hans_Blix                     | correct   
+Hans_Blix                     | Hans_Blix                     | correct   
+Hans_Blix                     | * NOT IN DB *                 | incorrect 
+Hans_Blix                     | * NOT IN DB *                 | incorrect 
+Hans_Blix                     | Hans_Blix                     | correct   
+Hans_Blix                     | Hans_Blix                     | correct   
+Hans_Blix                     | * NOT IN DB *                 | incorrect 
+Hans_Blix                     | Hans_Blix                     | correct   
+Hans_Blix                     | Chris_Evans                   | incorrect 
+Hans_Blix                     | Ariel_Sharon                  | incorrect 
+Hans_Blix                     | Hans_Blix                     | correct   
+Hans_Blix                     | Uzmar_Gomez                   | incorrect 
+Hans_Blix                     | Hans_Blix                     | correct   
+Salma_Hayek                   | Salma_Hayek                   | correct   
+Salma_Hayek                   | Salma_Hayek                   | correct   
+Salma_Hayek                   | Salma_Hayek                   | correct   
+Salma_Hayek                   | Denzel_Washington             | incorrect 
+Salma_Hayek                   | Salma_Hayek                   | correct   
+Salma_Hayek                   | Salma_Hayek                   | correct   
+Salma_Hayek                   | * NOT IN DB *                 | incorrect 
+Salma_Hayek                   | Salma_Hayek                   | correct   
+Salma_Hayek                   | Salma_Hayek                   | correct   
+Chris_Hemsworth               | Chris_Hemsworth               | correct   
+Chris_Hemsworth               | Serena_Williams               | incorrect 
+Chris_Hemsworth               | Chris_Hemsworth               | correct   
+Chris_Hemsworth               | * NOT IN DB *                 | incorrect 
+Chris_Hemsworth               | Chris_Hemsworth               | correct   
+Chris_Hemsworth               | Eugenio_Derbez                | incorrect 
+Chris_Hemsworth               | Ryan_Gosling                  | incorrect 
+Chris_Hemsworth               | Denzel_Washington             | incorrect 
+Jennifer_Aniston              | Jennifer_Aniston              | correct   
+Jennifer_Aniston              | Jennifer_Aniston              | correct   
+Jennifer_Aniston              | Jennifer_Aniston              | correct   
+Jennifer_Aniston              | Jennifer_Aniston              | correct   
+Jennifer_Aniston              | * NOT IN DB *                 | incorrect 
+Jennifer_Aniston              | Eugenio_Derbez                | incorrect 
+Jennifer_Aniston              | Jennifer_Aniston              | correct   
+Jennifer_Aniston              | George_W_Bush                 | incorrect 
+Jennifer_Aniston              | Jennifer_Aniston              | correct   
+Jennifer_Aniston              | Jennifer_Aniston              | correct   
+Jennifer_Aniston              | * NOT IN DB *                 | incorrect 
+Jennifer_Aniston              | Will_Smith                    | incorrect 
+Scarlett_Johansson            | Salma_Hayek                   | incorrect 
+Scarlett_Johansson            | Scarlett_Johansson            | correct   
+Scarlett_Johansson            | * NOT IN DB *                 | incorrect 
+Scarlett_Johansson            | Daniel_Radcliffe              | incorrect 
+Scarlett_Johansson            | * NOT IN DB *                 | incorrect 
+Scarlett_Johansson            | Chris_Evans                   | incorrect 
+Scarlett_Johansson            | Serena_Williams               | incorrect 
+Scarlett_Johansson            | Scarlett_Johansson            | correct   
+Uzmar_Gomez                   | Uzmar_Gomez                   | correct   
+Uzmar_Gomez                   | Uzmar_Gomez                   | correct   
+Daniel_Radcliffe              | Eugenio_Derbez                | incorrect 
+Daniel_Radcliffe              | Daniel_Radcliffe              | correct   
+Daniel_Radcliffe              | Guillermo_Coria               | incorrect 
+Daniel_Radcliffe              | Daniel_Radcliffe              | correct   
+Daniel_Radcliffe              | Daniel_Radcliffe              | correct   
+Daniel_Radcliffe              | Daniel_Radcliffe              | correct 
+Daniel_Radcliffe              | Chris_Hemsworth               | incorrect 
+Daniel_Radcliffe              | Uzmar_Gomez                   | incorrect 
+Daniel_Radcliffe              | Chris_Evans                   | incorrect 
+Daniel_Radcliffe              | Daniel_Radcliffe              | correct   
+Ariel_Sharon                  | Roh_Moo-hyun                  | incorrect 
+Ariel_Sharon                  | Ricardo_Lagos                 | incorrect 
+Ariel_Sharon                  | George_W_Bush                 | incorrect 
+Ariel_Sharon                  | * NOT IN DB *                 | incorrect 
+Ariel_Sharon                  | Ariel_Sharon                  | correct   
+Ariel_Sharon                  | * NOT IN DB *                 | incorrect 
+Ariel_Sharon                  | Ricardo_Lagos                 | incorrect 
+Ariel_Sharon                  | Mahmoud_Abbas                 | incorrect 
+Ariel_Sharon                  | Ariel_Sharon                  | correct   
+Ariel_Sharon                  | Hans_Blix                     | incorrect 
+Ariel_Sharon                  | Ariel_Sharon                  | correct   
+Ariel_Sharon                  | Mahmoud_Abbas                 | incorrect 
+Ariel_Sharon                  | George_W_Bush                 | incorrect 
+Ariel_Sharon                  | Salma_Hayek                   | incorrect 
+Alejandro_Toledo              | Mahmoud_Abbas                 | incorrect 
+Alejandro_Toledo              | * NOT IN DB *                 | incorrect 
+Alejandro_Toledo              | Alejandro_Toledo              | correct   
+Alejandro_Toledo              | * NOT IN DB *                 | incorrect 
+Alejandro_Toledo              | Alejandro_Toledo              | correct
+Alejandro_Toledo              | Roh_Moo-hyun                  | incorrect 
+Alejandro_Toledo              | Kofi_Annan                    | incorrect 
+Alejandro_Toledo              | Megawati_Sukarnoputri         | incorrect 
+Alejandro_Toledo              | Hans_Blix                     | incorrect 
+Alejandro_Toledo              | Ricardo_Lagos                 | incorrect 
+Alejandro_Toledo              | Roh_Moo-hyun                  | incorrect 
+Alejandro_Toledo              | Uzmar_Gomez                   | incorrect 
+Alejandro_Toledo              | * NOT IN DB *                 | incorrect 
+Morgan_Freeman                | Morgan_Freeman                | correct   
+Morgan_Freeman                | Morgan_Freeman                | correct   
+Morgan_Freeman                | Morgan_Freeman                | correct   
+Morgan_Freeman                | Morgan_Freeman                | correct   
+Morgan_Freeman                | Morgan_Freeman                | correct   
+Morgan_Freeman                | Chris_Evans                   | incorrect 
+Morgan_Freeman                | * NO FACE FOUND *             |
+Morgan_Freeman                | Ariel_Sharon                  | incorrect 
+Morgan_Freeman                | Morgan_Freeman                | correct   
+Morgan_Freeman                | * NOT IN DB *                 | incorrect 
+Denzel_Washington             | Roh_Moo-hyun                  | incorrect 
+Denzel_Washington             | Salma_Hayek                   | incorrect 
+Denzel_Washington             | Denzel_Washington             | correct
+Denzel_Washington             | Ricardo_Lagos                 | incorrect 
+Denzel_Washington             | Uzmar_Gomez                   | incorrect 
+Denzel_Washington             | Denzel_Washington             | correct   
+Denzel_Washington             | Will_Smith                    | incorrect 
+Denzel_Washington             | * NOT IN DB *                 | incorrect 
+Roh_Moo-hyun                  | Roh_Moo-hyun                  | correct   
+Roh_Moo-hyun                  | Roh_Moo-hyun                  | correct   
+Roh_Moo-hyun                  | Roh_Moo-hyun                  | correct   
+Roh_Moo-hyun                  | Scarlett_Johansson            | incorrect 
+Roh_Moo-hyun                  | Alejandro_Toledo              | incorrect 
+Roh_Moo-hyun                  | Roh_Moo-hyun                  | correct   
+Roh_Moo-hyun                  | Roh_Moo-hyun                  | correct   
+Roh_Moo-hyun                  | Roh_Moo-hyun                  | correct   
+Roh_Moo-hyun                  | Roh_Moo-hyun                  | correct   
+Roh_Moo-hyun                  | Roh_Moo-hyun                  | correct   
+Roh_Moo-hyun                  | Roh_Moo-hyun                  | correct   
+Roh_Moo-hyun                  | Roh_Moo-hyun                  | correct   
+Roh_Moo-hyun                  | Roh_Moo-hyun                  | correct   
+Guillermo_Coria               | Guillermo_Coria               | correct   
+Guillermo_Coria               | Guillermo_Coria               | correct   
+Guillermo_Coria               | * NOT IN DB *                 | incorrect 
+Guillermo_Coria               | Guillermo_Coria               | correct   
+Guillermo_Coria               | * NOT IN DB *                 | incorrect 
+Guillermo_Coria               | Guillermo_Coria               | correct   
+Guillermo_Coria               | Guillermo_Coria               | correct   
+Guillermo_Coria               | Guillermo_Coria               | correct   
+Guillermo_Coria               | * NOT IN DB *                 | incorrect 
+Guillermo_Coria               | * NOT IN DB *                 | incorrect 
+Guillermo_Coria               | Guillermo_Coria               | correct   
+Guillermo_Coria               | Uzmar_Gomez                   | incorrect 
+Megawati_Sukarnoputri         | Megawati_Sukarnoputri         | correct   
+Megawati_Sukarnoputri         | Megawati_Sukarnoputri         | correct   
+Megawati_Sukarnoputri         | Megawati_Sukarnoputri         | correct   
+Megawati_Sukarnoputri         | Megawati_Sukarnoputri         | correct   
+Megawati_Sukarnoputri         | Guillermo_Coria               | incorrect 
+Megawati_Sukarnoputri         | Megawati_Sukarnoputri         | correct   
+Megawati_Sukarnoputri         | Megawati_Sukarnoputri         | correct   
+Megawati_Sukarnoputri         | Megawati_Sukarnoputri         | correct   
+Megawati_Sukarnoputri         | Hans_Blix                     | incorrect 
+Ricardo_Lagos                 | George_W_Bush                 | incorrect 
+Ricardo_Lagos                 | Ricardo_Lagos                 | correct   
+Ricardo_Lagos                 | George_W_Bush                 | incorrect 
+Ricardo_Lagos                 | Mahmoud_Abbas                 | incorrect 
+Ricardo_Lagos                 | Ricardo_Lagos                 | correct   
+Ricardo_Lagos                 | Ricardo_Lagos                 | correct   
+Ricardo_Lagos                 | * NOT IN DB *                 | incorrect 
+Ricardo_Lagos                 | Ricardo_Lagos                 | correct   
+Ricardo_Lagos                 | George_W_Bush                 | incorrect 
+Ricardo_Lagos                 | Ariel_Sharon                  | incorrect 
+Ricardo_Lagos                 | Eugenio_Derbez                | incorrect 
+Mahmoud_Abbas                 | Chris_Evans                   | incorrect 
+Mahmoud_Abbas                 | Mahmoud_Abbas                 | correct   
+Mahmoud_Abbas                 | Mahmoud_Abbas                 | correct   
+Mahmoud_Abbas                 | * NOT IN DB *                 | incorrect 
+Mahmoud_Abbas                 | Mahmoud_Abbas                 | correct   
+Mahmoud_Abbas                 | * NOT IN DB *                 | incorrect 
+Mahmoud_Abbas                 | * NOT IN DB *                 | incorrect 
+Mahmoud_Abbas                 | Morgan_Freeman                | incorrect 
+Will_Smith                    | * NOT IN DB *                 | incorrect 
+Will_Smith                    | Megawati_Sukarnoputri         | incorrect 
+Will_Smith                    | Denzel_Washington             | incorrect 
+Will_Smith                    | * NOT IN DB *                 | incorrect 
+Will_Smith                    | Denzel_Washington             | incorrect 
+Will_Smith                    | Denzel_Washington             | incorrect 
+Eugenio_Derbez                | Eugenio_Derbez                | correct   
+Eugenio_Derbez                | * NOT IN DB *                 | incorrect 
+Eugenio_Derbez                | Roh_Moo-hyun                  | incorrect 
+Eugenio_Derbez                | * NOT IN DB *                 | incorrect 
+Eugenio_Derbez                | Daniel_Radcliffe              | incorrect 
+Eugenio_Derbez                | Eugenio_Derbez                | correct   
+Eugenio_Derbez                | Eugenio_Derbez                | correct   
+Eugenio_Derbez                | Eugenio_Derbez                | correct   
+Eugenio_Derbez                | Eugenio_Derbez                | correct   
+Emma_Watson                   | Jennifer_Aniston              | incorrect 
+Emma_Watson                   | Emma_Watson                   | correct   
+Emma_Watson                   | Salma_Hayek                   | incorrect 
+Emma_Watson                   | Uzmar_Gomez                   | incorrect 
+Emma_Watson                   | Emma_Watson                   | correct   
+Emma_Watson                   | * NOT IN DB *                 | incorrect 
+Emma_Watson                   | * NOT IN DB *                 | incorrect 
+Emma_Watson                   | Scarlett_Johansson            | incorrect 
+Emma_Watson                   | * NOT IN DB *                 | incorrect 

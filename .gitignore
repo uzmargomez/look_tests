@@ -1,0 +1,10 @@
+*.pgm
+*.jpg
+*.info
+*.LOG
+*.npy
+*pgm.bad
+env/
+*.pyc
+*.dat
+*.png
